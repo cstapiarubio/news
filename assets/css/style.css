@@ -85,6 +85,10 @@ img:hover{
 	}
 }*/
 
+.navbar navbar-inverse bg-inverse{
+	background-color: white;
+}
+
 img{
 	display: inline-block;
 }
